@@ -1,0 +1,22 @@
+*{
+	position: relative;
+	text-align: center;
+    background-image: url("bgdesert.jpg");
+}
+.size{
+	width: 400px;
+	height: 100px;
+}
+
+p{
+	font-family: sans-serif;
+	font-size: 18px;
+	color: #7C7877;
+	background:#F8FAFF;
+	border-radius: 20px 0px 20px 0px;
+	border: 2px solid #D9D4CF;
+	width: 300px ;
+	height: 100px;
+	display: inline-grid;
+
+}
