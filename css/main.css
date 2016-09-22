@@ -1,22 +1,54 @@
 *{
 	position: relative;
 	text-align: center;
-    background-image: url("bgdesert.jpg");
+}
+h1{
+	color:#FDD692;
+}
+body{
+  background-image: url(http://3.bp.blogspot.com/-OY3ouum4TAQ/VUElOr5GqVI/AAAAAAAAEdA/kBeDTRGG5m4/s1600/Wallpaper_every_taste_800023.jpg);
 }
 .size{
 	width: 400px;
 	height: 100px;
 }
+.marco{
+	border-radius: 10px 10px 10px 10px;
+	border: 2px solid #D9D4CF;
+	background-color: rgba(255,255,255,0.1);
+	width: 700px;
+	height: 230px;
+	position: relative;
+
+}
+textarea{
+	overflow: hidden;
+}
 
 p{
 	font-family: sans-serif;
 	font-size: 18px;
-	color: #7C7877;
-	background:#F8FAFF;
+	color: #a79c8e;
+	background-color: rgba(255,255,255,0.1);
 	border-radius: 20px 0px 20px 0px;
-	border: 2px solid #D9D4CF;
+	border: 2px solid #7C7877;
 	width: 300px ;
-	height: 100px;
-	display: inline-grid;
+	height: 100px;	
 
+}
+button{
+	color:#52616a;
+	background-color: #F0E5DE;
+	border-radius: 5px ;
+	font-size: 14px;
+}
+.purple{
+	color: #D499B9;
+}
+.lava{
+	color:#B82928;
+	font-weight: 900;
+}
+.green{
+	color:#cbe86b;
 }
